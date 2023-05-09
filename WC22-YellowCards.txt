@@ -1,0 +1,172 @@
+Qatar-Ecuador;Qatar;SAAD ALSHEEB;Y;15
+Qatar-Ecuador;Qatar;ALMOEZ ALI;Y;22
+Qatar-Ecuador;Ecuador;Moises CAICEDO;Y;29
+Qatar-Ecuador;Qatar;KARIM BOUDIAF;Y;36
+Qatar-Ecuador;Ecuador;Jhegson MENDEZ;Y;56
+Qatar-Ecuador;Qatar;AKRAM AFIF;Y;78
+Senegal-Netherlands;Netherlands;Matthijs DE LIGT;Y;56
+Senegal-Netherlands;Senegal;Nampalys MENDY;Y;90+4
+Senegal-Netherlands;Senegal;Idrissa Gana GUEYE;Y;90+6
+Qatar-Senegal;Qatar;ISMAIL MOHAMAD;Y;20
+Qatar-Senegal;Senegal;Boulaye DIA;Y;30
+Qatar-Senegal;Qatar;HOMAM AHMED;Y;45+1
+Qatar-Senegal;Senegal;Ismail JAKOBS;Y;52
+Qatar-Senegal;Senegal;Pathe CISS;Y;87
+Qatar-Senegal;Qatar;ASSIM MADIBO;Y;90+1
+Netherlands-Ecuador;Ecuador;Jhegson MENDEZ;Y;57
+Ecuador-Senegal;Senegal;Idrissa Gana GUEYE;Y;66
+Netherlands-Qatar;Netherlands;Nathan AKE;Y;52
+England-Iran;Iran;Alireza JAHANBAKHSH;Y;25
+England-Iran;Iran;Morteza POURALIGANJI;Y;48
+USA-Wales;USA;Sergino DEST;Y;11
+USA-Wales;USA;Weston McKENNIE;Y;13
+USA-Wales;Wales;Gareth BALE;Y;40
+USA-Wales;Wales;Chris MEPHAM;Y;45+2
+USA-Wales;USA;Tim REAM;Y;51
+USA-Wales;USA;Kellyn PERRY-ACOST;Y;90+10
+Wales-Iran;Wales;Joe RODON;Y;45+3
+Wales-Iran;Iran;Ramin REZAEIAN;Y;90+5
+Wales-Iran;Iran;Alireza JAHANBAKHSH;Y;90+8
+Wales-England;Wales;Daniel JAMES;Y;29
+Wales-England;Wales;Aaron RAMSEY;Y;61
+Iran-USA;USA;Tyler ADAMS;Y;43
+Iran-USA;Iran;Majid HOSSEINI;Y;77
+Iran-USA;Iran;Mohammad KANAANI;Y;83
+Iran-USA;Iran;Abolfazl JALALI;Y;90+3
+Argentina-Saudi Arabia;Saudi Arabia;ABDULELAH ALMALKI;Y;67
+Argentina-Saudi Arabia;Saudi Arabia;ALI ALBULAYHI;Y;75
+Argentina-Saudi Arabia;Saudi Arabia;SALEM ALDAWSARI;Y;79
+Argentina-Saudi Arabia;Saudi Arabia;SAUD ABDULHAMID;Y;82
+Argentina-Saudi Arabia;Saudi Arabia;NAWAF AL ABID;Y;88
+Argentina-Saudi Arabia;Saudi Arabia;MOHAMMED ALOWAIS;Y;90+2
+Mexico-Poland;Mexico;Jorge SANCHEZ;Y;29
+Mexico-Poland;Mexico;Hector MORENO;Y;56
+Mexico-Poland;Mexico;Hector MORENO;Y;61
+Mexico-Poland;Poland;Przemyslaw FRANKOWSKI;Y;76
+Poland-Saudi Arabia;Poland;Jakub KIWIOR;Y;15
+Poland-Saudi Arabia;Poland;Matty CASH;Y;16
+Poland-Saudi Arabia;Poland;Arkadiusz MILIK;Y;19
+Poland-Saudi Arabia;Saudi Arabia;ABDULELAH ALMALKI;Y;20
+Poland-Saudi Arabia;Saudi Arabia;ABDULELAH ALMALKI;Y;27
+Poland-Saudi Arabia;Saudi Arabia;Abdulelah ALAMRI;Y;45+4
+Argentina-Mexico;Mexico;Nestor ARAUJO;Y;22
+Argentina-Mexico;Argentina;Gonzalo MONTIEL;Y;43
+Argentina-Mexico;Mexico;Erick GUTIERREZ;Y;50
+Argentina-Mexico;Mexico;Hector HERRERA;Y;66
+Argentina-Mexico;Mexico;Roberto ALVARADO;Y;89
+Poland-Argentina;Argentina;Marcos ACUNA;Y;49
+Poland-Argentina;Poland;Grzegorz KRYCHOWIAK;Y;78
+Saudi Arabia-Mexico;Mexico;Edson ALVAREZ;Y;16
+Saudi Arabia-Mexico;Saudi Arabia;SALEH ALSHEHRI;Y;28
+Saudi Arabia-Mexico;Saudi Arabia;ALI ALHASSAN;Y;34
+Saudi Arabia-Mexico;Saudi Arabia;Hassan ALTAMBAKTI;Y;52
+Saudi Arabia-Mexico;Saudi Arabia;ABDULLAH MADU;Y;81
+Saudi Arabia-Mexico;Saudi Arabia;Abdulelah ALAMRI;Y;90+1
+Saudi Arabia-Mexico;Saudi Arabia;HATAN BAHBRI;Y;90+7
+Denmark-Tunisia;Denmark;Rasmus KRISTENSEN;Y;24
+Denmark-Tunisia;Denmark;Mathias JENSEN;Y;78
+Denmark-Tunisia;Tunisia;Taha KHENISSI;Y;86
+France-Australia;Australia;Mitch DUKE;Y;55
+France-Australia;Australia;Jackson IRVINE;Y;80
+France-Australia;Australia;Aaron MOOY;Y;90+5
+Tunisia-Australia;Tunisia;Aissa LAIDOUNI;Y;26
+Tunisia-Australia;Tunisia;Ali ABDI;Y;64
+Tunisia-Australia;Tunisia;Ferjani SASSI;Y;90+3
+France-Denmark;Denmark;Andreas CHRISTENSEN;Y;20
+France-Denmark;Denmark;Andreas CORNELIUS;Y;23
+France-Denmark;France;Jules KOUNDE;Y;43
+Australia-Denmark;Australia;Aziz BEHICH;Y;4
+Australia-Denmark;Australia;Milos DEGENEK;Y;57
+Australia-Denmark;Denmark;Robert SKOV;Y;75
+Tunisia-France;Tunisia;Wajdi KECHRIDA;Y;28
+Spain-Costa Rica;Costa Rica;Francisco CALVO;Y;68
+Spain-Costa Rica;Costa Rica;Joel CAMPBELL;Y;90+7
+Japan-Costa Rica;Costa Rica;Anthony CONTRERAS;Y;41
+Japan-Costa Rica;Japan;Miki YAMANE;Y;44
+Japan-Costa Rica;Costa Rica;Celso BORGES;Y;61
+Japan-Costa Rica;Costa Rica;Francisco CALVO;Y;70
+Japan-Costa Rica;Japan;Kou ITAKURA;Y;84
+Japan-Costa Rica;Japan;Wataru ENDO;Y;90+3
+Spain-Germany;Germany;Thilo KEHRER;Y;37
+Spain-Germany;Spain;Sergio BUSQUETS;Y;44
+Spain-Germany;Germany;Leon GORETZKA;Y;58
+Spain-Germany;Germany;Joshua KIMMICH;Y;60
+Japan-Spain;Japan;Kou ITAKURA;Y;39
+Japan-Spain;Japan;Shogo TANIGUCHI;Y;44
+Japan-Spain;Japan;Maya YOSHIDA;Y;45
+Costa Rica-Germany;Costa Rica;Oscar DUARTE;Y;77
+Morocco-Croatia;Morocco;Sofyan AMRABAT;Y;78
+Belgium-Canada;Belgium;Yannick CARRASCO;Y;9
+Belgium-Canada;Belgium;Thomas MEUNIER;Y;54
+Belgium-Canada;Belgium;Amadou ONANA;Y;56
+Belgium-Canada;Canada;Alphonso DAVIES;Y;81
+Belgium-Canada;Canada;Alistair JOHNSTON;Y;83
+Belgium-Morocco;Belgium;Amadou ONANA;Y;29
+Belgium-Morocco;Morocco;Abdelhamid SABIRI;Y;90+5
+Croatia-Canada;Canada;Tajon BUCHANAN;Y;52
+Croatia-Canada;Croatia;Dejan LOVREN;Y;56
+Croatia-Canada;Canada;Kamal MILLER;Y;85
+Croatia-Canada;Croatia;Luka MODRIC;Y;85
+Croatia-Belgium;Belgium;Leander DENDONCKER;Y;67
+Canada-Morocco;Canada;Junior HOILETT;Y;7
+Canada-Morocco;Canada;Jonathan OSORIO;Y;26
+Canada-Morocco;Canada;Sam ADEKUGBE;Y;45+2
+Canada-Morocco;Canada;Steven VITORIA;Y;84
+Switzerland-Cameroon;Cameroon;Collins FAI;Y;36
+Switzerland-Cameroon;Switzerland;Nico ELVEDI;Y;48
+Switzerland-Cameroon;Switzerland;Manuel AKANJI;Y;83
+Brazil-Serbia;Serbia;Strahinja PAVLOVIC;Y;7
+Brazil-Serbia;Serbia;Nemanja GUDELJ;Y;49
+Brazil-Serbia;Serbia;Sasa LUKIC;Y;64
+Cameroon-Serbia;Cameroon;Nicolas NKOULOU;Y;24
+Cameroon-Serbia;Cameroon;Christian BASSOGOG;Y;30
+Cameroon-Serbia;Serbia;Luka JOVIC;Y;45+4
+Cameroon-Serbia;Serbia;Nikola MILENKOVIC;Y;90+3
+Brazil-Switzerland;Switzerland;Fabian RIEDER;Y;50
+Brazil-Switzerland;Brazil;FRED;Y;52
+Serbia-Switzerland;Switzerland;Silvan WIDMER;Y;15
+Serbia-Switzerland;Switzerland;Ruben VARGAS;Y;34
+Serbia-Switzerland;Serbia;Sergej MILINKOVIC-SAVIC;Y;47
+Serbia-Switzerland;Serbia;Strahinja PAVLOVIC;Y;56
+Serbia-Switzerland;Serbia;Predrag RAJKOVIC;Y;66
+Serbia-Switzerland;Serbia;Nemanja GUDELJ;Y;81
+Serbia-Switzerland;Serbia;Aleksandar MITROVIC;Y;82
+Serbia-Switzerland;Switzerland;Granit XHAKA;Y;90+5
+Serbia-Switzerland;Serbia;Nikola MILENKOVIC;Y;90+5
+Serbia-Switzerland;Switzerland;Fabian SCHAER;Y;90+9
+Serbia-Switzerland;Serbia;Sasa LUKIC;Y;90+10
+Cameroon-Brazil;Cameroon;Nouhou TOLO;Y;6
+Cameroon-Brazil;Brazil;EDER MILITAO;Y;7
+Cameroon-Brazil;Cameroon;Pierre KUNDE;Y;28
+Cameroon-Brazil;Cameroon;Collins FAI;Y;32
+Cameroon-Brazil;Cameroon;Vincent ABOUBAKAR;Y;81
+Cameroon-Brazil;Brazil;BRUNO GUIMARAES;Y;85
+Cameroon-Brazil;Cameroon;Vincent ABOUBAKAR;Y;90+3
+Cameroon-Brazil;Cameroon;Vincent ABOUBAKAR;R;90+3
+Uruguay-South Korea;Uruguay;Martin CACERES;Y;57
+Uruguay-South Korea;South Korea;CHO Guesung;Y;88
+Uruguay-South Korea;South Korea;CHO Guesung;Y;90+8
+Portugal-Ghana;Ghana;Kudus MOHAMMED;Y;45+1
+Portugal-Ghana;Ghana;Andre AYEW;Y;49
+Portugal-Ghana;Ghana;Seidu ALIDU;Y;57
+Portugal-Ghana;Portugal;DANILO;Y;90+1
+Portugal-Ghana;Ghana;Inaki WILLIAMS;Y;90+1
+Portugal-Ghana;Portugal;BRUNO FERNANDES;Y;90+5
+South Korea-Ghana;Ghana;Daniel AMARTEY;Y;21
+South Korea-Ghana;South Korea;JUNG Wooyoung;Y;27
+South Korea-Ghana;Ghana;Tariq LAMPTEY;Y;73
+South Korea-Ghana;South Korea;KIM Younggwon;Y;77
+Portugal-Uruguay;Uruguay;Rodrigo BENTANCUR;Y;6
+Portugal-Uruguay;Portugal;RUBEN NEVES;Y;38
+Portugal-Uruguay;Uruguay;Mathias OLIVERA;Y;44
+Portugal-Uruguay;Portugal;JOAO FELIX;Y;77
+Portugal-Uruguay;Portugal;RUBEN DIAS;Y;89
+Ghana-Uruguay;Uruguay;Darwin NUNEZ;Y;20
+Ghana-Uruguay;Uruguay;Luis SUAREZ;Y;60
+Ghana-Uruguay;Ghana;Kamaldeen SULEMANA;Y;86
+Ghana-Uruguay;Uruguay;Sebastian COATES;Y;87
+Ghana-Uruguay;Ghana;Seidu ALIDU;Y;90+9
+Ghana-Uruguay;Uruguay;Jose GIMENEZ;Y;90+10
+Ghana-Uruguay;Uruguay;Edinson CAVANI;Y;90+10
+South Korea-Portugal;South Korea;LEE Kangin;Y;36
+South Korea-Portugal;South Korea;HWANG Heechan;Y;90+2

@@ -1,0 +1,48 @@
+
+Group A
+Ecuador
+Netherlands
+Qatar
+Senegal
+
+Group B
+England
+Iran
+USA
+Wales
+
+Group C
+Argentina
+Mexico
+Poland
+Saudi Arabia
+
+Group D
+Australia
+Denmark
+France
+Tunisia
+
+Group E
+Costa Rica
+Germany
+Japan
+Spain
+
+Group F
+Belgium
+Canada
+Croatia
+Morocco
+
+Group G
+Brazil
+Cameroon
+Serbia
+Switzerland
+
+Group H
+Ghana
+Portugal
+South Korea
+Uruguay

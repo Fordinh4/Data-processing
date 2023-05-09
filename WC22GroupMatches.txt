@@ -1,0 +1,49 @@
+A;Netherlands;Senegal;(8,14)();21 November 2022
+A;Netherlands;Ecuador;(8)(13);25 November 2022
+A;Netherlands;Qatar;(8,9)();29 November 2022
+A;Senegal;Qatar;(9,19,20)(9);25 November 2022
+A;Senegal;Ecuador;(18,3)(23);29 November 2022
+A;Ecuador;Qatar;(13,13)();20 November 2022
+B;England;Iran;(22,17,17,10,11,7)(9,9);21 November 2022
+B;England;USA;()();25 November 2022
+B;England;Wales;(11,11,20)();29 November 2022
+B;USA;Wales;(21)(11);21 November 2022
+B;USA;Iran;(10)();29 November 2022
+B;Iran;Wales;(15,23)();25 November 2022
+C;Argentina;Saudi Arabia;(10)(11,10);22 November 2022
+C;Argentina;Mexico;(10,24)();26 November 2022
+C;Argentina;Poland;(20,9)();30 November 2022
+C;Poland;Mexico;()();22 November 2022
+C;Poland;Saudi Arabia;(20,9)();26 November 2022
+C;Mexico;Saudi Arabia;(20,24)(10);30 November 2022
+D;France;Australia;(14,9,10,9)(23);22 November 2022
+D;France;Denmark;(10,10)(6);26 November 2022
+D;France;Tunisia;()(10);30 November 2022
+D;Australia;Tunisia;(15)();26 November 2022
+D;Australia;Denmark;(7)();30 November 2022
+D;Tunisia;Denmark;()();22 November 2022
+E;Spain;Costa Rica;(21,10,4,4,9,19,7)();23 November 2022
+E;Spain;Germany;(7)(9);27 November 2022
+E;Spain;Japan;(7)(8,17);1 December 2022
+E;Japan;Germany;(8,18)(21);23 November 2022
+E;Japan;Costa Rica;()(4);27 November 2022
+E;Costa Rica;Germany;(17,X1)(10,7,7,9);1 December 2022
+F;Morocco;Croatia;()();23 November 2022
+F;Morocco;Belgium;(6,14)();27 November 2022
+F;Morocco;Canada;(7,19)(X5);1 December 2022
+F;Croatia;Canada;(9,14,9,7)(19);27 November 2022
+F;Croatia;Belgium;()();1 December 2022
+F;Belgium;Canada;(23)();23 November 2022
+G;Brazil;Switzerland;(5)();28 November 2022
+G;Brazil;Cameroon;()(10);2 December 2022
+G;Brazil;Serbia;(9,9)();24 November 2022
+G;Switzerland;Cameroon;(7)();24 November 2022
+G;Switzerland;Serbia;(23,7,8)(9,18);2 December 2022
+G;Cameroon;Serbia;(21,10,13)(2,20,9);28 November 2022
+H;Portugal;Ghana;(7,11,15)(10,11);24 November 2022
+H;Portugal;South Korea;(21)(19,11);2 December 2022
+H;Portugal;Uruguay;(8,8)();28 November 2022
+H;Ghana;South Korea;(4,20,20)(9,9);28 November 2022
+H;Ghana;Uruguay;()(10,10);2 December 2022
+H;South Korea;Uruguay;()();24 November 2022
+ 

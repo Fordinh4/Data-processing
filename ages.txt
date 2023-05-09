@@ -1,0 +1,34 @@
+Argentina    27.77 years
+Australia    27.15 years
+Belgium      27.81 years
+Brazil       27.88 years
+Cameroon     26.31 years
+Canada       26.92 years
+Costa Rica   27.15 years
+Croatia      27.38 years
+Denmark      27.15 years
+Ecuador      25.62 years
+England      26.42 years
+France       26.54 years
+Germany      26.77 years
+Ghana        24.73 years
+Iran         28.92 years
+Japan        27.77 years
+Mexico       28.50 years
+Morocco      26.19 years
+Netherlands  26.62 years
+Poland       27.04 years
+Portugal     26.85 years
+Qatar        26.96 years
+Saudi Arabia 27.35 years
+Senegal      25.88 years
+Serbia       26.88 years
+South Korea  27.77 years
+Spain        25.35 years
+Switzerland  27.00 years
+Tunisia      27.92 years
+Uruguay      27.81 years
+USA          25.15 years
+Wales        26.38 years
+
+Average Overall 26.93 years

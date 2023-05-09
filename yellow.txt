@@ -1,0 +1,184 @@
+Qatar vs Ecuador
+Qatar: 4 YC
+Ecuador: 2 YC
+
+Senegal vs Netherlands
+Senegal: 2 YC
+Netherlands: 1 YC
+
+Qatar vs Senegal
+Qatar: 3 YC
+Senegal: 3 YC
+
+Netherlands vs Ecuador
+Ecuador: 1 YC
+Netherlands: 0 YC
+
+Ecuador vs Senegal
+Senegal: 1 YC
+Ecuador: 0 YC
+
+Netherlands vs Qatar
+Netherlands: 1 YC
+Qatar: 0 YC
+
+England vs Iran
+Iran: 2 YC
+England: 0 YC
+
+USA vs Wales
+USA: 4 YC
+Wales: 2 YC
+
+Wales vs Iran
+Iran: 2 YC
+Wales: 1 YC
+
+Wales vs England
+Wales: 2 YC
+England: 0 YC
+
+Iran vs USA
+Iran: 3 YC
+USA: 1 YC
+
+Argentina vs Saudi Arabia
+Saudi Arabia: 6 YC
+Argentina: 0 YC
+
+Mexico vs Poland
+Mexico: 3 YC
+Poland: 1 YC
+
+Poland vs Saudi Arabia
+Poland: 3 YC
+Saudi Arabia: 3 YC
+
+Argentina vs Mexico
+Mexico: 4 YC
+Argentina: 1 YC
+
+Poland vs Argentina
+Poland: 1 YC
+Argentina: 1 YC
+
+Saudi Arabia vs Mexico
+Saudi Arabia: 6 YC
+Mexico: 1 YC
+
+Denmark vs Tunisia
+Denmark: 2 YC
+Tunisia: 1 YC
+
+France vs Australia
+Australia: 3 YC
+France: 0 YC
+
+Tunisia vs Australia
+Tunisia: 3 YC
+Australia: 0 YC
+
+France vs Denmark
+Denmark: 2 YC
+France: 1 YC
+
+Australia vs Denmark
+Australia: 2 YC
+Denmark: 1 YC
+
+Tunisia vs France
+Tunisia: 1 YC
+France: 0 YC
+
+Spain vs Costa Rica
+Costa Rica: 2 YC
+Spain: 0 YC
+
+Japan vs Costa Rica
+Japan: 3 YC
+Costa Rica: 3 YC
+
+Spain vs Germany
+Germany: 3 YC
+Spain: 1 YC
+
+Japan vs Spain
+Japan: 3 YC
+Spain: 0 YC
+
+Costa Rica vs Germany
+Costa Rica: 1 YC
+Germany: 0 YC
+
+Morocco vs Croatia
+Morocco: 1 YC
+Croatia: 0 YC
+
+Belgium vs Canada
+Belgium: 3 YC
+Canada: 2 YC
+
+Belgium vs Morocco
+Belgium: 1 YC
+Morocco: 1 YC
+
+Croatia vs Canada
+Croatia: 2 YC
+Canada: 2 YC
+
+Croatia vs Belgium
+Belgium: 1 YC
+Croatia: 0 YC
+
+Canada vs Morocco
+Canada: 4 YC
+Morocco: 0 YC
+
+Switzerland vs Cameroon
+Switzerland: 2 YC
+Cameroon: 1 YC
+
+Brazil vs Serbia
+Serbia: 3 YC
+Brazil: 0 YC
+
+Cameroon vs Serbia
+Cameroon: 2 YC
+Serbia: 2 YC
+
+Brazil vs Switzerland
+Brazil: 1 YC
+Switzerland: 1 YC
+
+Serbia vs Switzerland
+Serbia: 7 YC
+Switzerland: 4 YC
+
+Cameroon vs Brazil
+Cameroon: 9 YC
+Brazil: 2 YC
+
+Uruguay vs South Korea
+South Korea: 2 YC
+Uruguay: 1 YC
+
+Portugal vs Ghana
+Ghana: 4 YC
+Portugal: 2 YC
+
+South Korea vs Ghana
+South Korea: 2 YC
+Ghana: 2 YC
+
+Portugal vs Uruguay
+Portugal: 3 YC
+Uruguay: 2 YC
+
+Ghana vs Uruguay
+Uruguay: 5 YC
+Ghana: 2 YC
+
+South Korea vs Portugal
+South Korea: 2 YC
+Portugal: 0 YC
+
